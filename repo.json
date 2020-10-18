@@ -1,0 +1,12 @@
+[
+    {
+        "name": "挖地雷",
+        "fileName": "MineSweeper.zip",
+        "nesName": "game.nes"
+    },
+    {
+        "name": "魂斗罗",
+        "fileName": "CONTRA.zip",
+        "nesName": "CONTRA.nes"
+    }
+]
